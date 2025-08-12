@@ -8,9 +8,13 @@
 
 ## 👩‍💻 About Me  
 🎓 Final-year Electronics & Telecommunication Engineering student
+
 💻 Exploring Data Science, Machine Learning & AI
+
 📊 Skilled in Python, Pandas, EDA, Data Visualization, SQL
+
 🚀 Passionate about building innovative tech solutions
+
 ✨ Lifelong learner with a growth mindset
 ---
 
