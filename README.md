@@ -55,9 +55,10 @@
 
 ## 🔗 Let's Connect  
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/pranaliishinde09/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
 
   <a href="mailto:pranalishinde0909@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
