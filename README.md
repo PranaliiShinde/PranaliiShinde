@@ -7,12 +7,11 @@
 ---
 
 ## 👩‍💻 About Me  
-- 🎓 From engineering roots to uncovering insights through data  
-- 🛠 Skilled in **Python**, **SQL**, and **Statistics**  
-- 📊 Hands-on with **EDA**, **data cleaning**, and **dashboarding** in Power BI  
-- 🚀 Firm believer in **learning by doing**, focused on solving real-world data problems  
-- 🔍 Currently exploring **Machine Learning** and **Deep Learning** to turn data into decisions  
-
+🎓 Final-year Electronics & Telecommunication Engineering student
+💻 Exploring Data Science, Machine Learning & AI
+📊 Skilled in Python, Pandas, EDA, Data Visualization, SQL
+🚀 Passionate about building innovative tech solutions
+✨ Lifelong learner with a growth mindset
 ---
 
 ## 💼 Tools I Use  
