@@ -11,7 +11,7 @@
 
 💻 Exploring Data Science, Machine Learning & AI
 
-📊 Skilled in Python, Pandas, EDA, Data Visualization, SQL
+📊 Skilled in Python, Pandas, EDA, Data Visualization, SQL, Excel, PowerBI
 
 🚀 Passionate about building innovative tech solutions
 
