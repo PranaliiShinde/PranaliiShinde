@@ -16,7 +16,7 @@
 🚀 Passionate about building innovative tech solutions
 
 ## 🌟 What I’m Working On
-📌 Building projects on **data analysis, visualization, and ML**.
+📌 Sports Analytics – Experimenting with cricket ball tracking and performance analysis ideas.
 
 🔍 Learning advanced **statistical methods** for data science.
 
