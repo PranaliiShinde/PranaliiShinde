@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=PranaliiShinde&theme=dracula" alt="Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1b27&color=ffffff&line=ff85a1&point=ffb3c6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranaliiShinde&theme=dracula" alt="Contribution Graph" />
 </p>
 
 
