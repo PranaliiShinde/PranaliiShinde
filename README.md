@@ -15,6 +15,11 @@
 
 🚀 Passionate about building innovative tech solutions
 
+## 🌟 What I’m Working On
+- 📌 Building projects on **data analysis, visualization, and ML**.
+- 🔍 Learning advanced **statistical methods** for data science.
+- 🛠 Developing ideas to integrate **sports analytics** with AI.
+
 ✨ Lifelong learner with a growth mindset
 ---
 
