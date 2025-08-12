@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wajiha-khanam&theme=dracula" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranaliiShinde&theme=dracula" alt="Contribution Graph" />
 </p>
 
 ---
