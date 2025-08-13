@@ -18,7 +18,7 @@
 ## 🌟 What I’m Working On
 📌 Sports Analytics – Experimenting with cricket ball tracking and performance analysis ideas.
 
-🔍 Learning advanced **statistical methods** for data science.
+📚  Data Visualization Dashboards – Building interactive dashboards using Power BI and Python.
 
 🛠 Developing ideas to integrate **sports analytics** with AI.
 
