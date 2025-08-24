@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pranali Shinde👋</h1>
 
 <p align="center">
- 📊 Decoding Data | 📊 Analyzing Patterns | 💡 Solving Problems | 🚀 Growing with Purpose
+ 📊 Decoding Data | 📊 Analyzing Patterns | 💡 Solving Problems | 🚀 Growing with Purpose 
 </p>
 
 ---
