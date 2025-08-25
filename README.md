@@ -18,9 +18,9 @@
 ## 🌟 What I’m Working On
 📌 Sports Analytics – Experimenting with cricket ball tracking and performance analysis ideas.
 
-📚  Data Visualization Dashboards – Building interactive dashboards using Power BI and Python.
+📚 Data Visualization Dashboards – Building interactive dashboards using Power BI and Python.
 
-🛠 Developing ideas to integrate **sports analytics** with AI.
+🛠 Python & Exploratory Data Analysis (EDA) – Applying statistical techniques, data cleaning, and visualization to uncover insights from sports datasets..
 
 ✨ Lifelong learner with a growth mindset
 ---
